@@ -1,0 +1,14 @@
+{
+  "name": "app-example-grammy",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "26"
+  },
+  "scripts": {
+    "start": "node index.ts"
+  },
+  "dependencies": {
+    "grammy": "^1.48.0"
+  }
+}
